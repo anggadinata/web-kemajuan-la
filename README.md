@@ -1,7 +1,5 @@
 # Website Laporan Kemajuan LA
 
-Dharma
-
 ## Cara Kontribusi :inbox_tray:
 
 ### 1. Fork Repository
