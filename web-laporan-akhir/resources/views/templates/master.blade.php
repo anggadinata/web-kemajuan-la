@@ -1,3 +1,8 @@
+<!--
+    File ini merupakan file template, jangan dimerubah apapun yang ada disini
+-->
+
+
 <!DOCTYPE html>
 <html>
 
